@@ -974,7 +974,7 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-  background: url("/Islamic_Landing_Page_Project/Assets/Quran1.jpg") no-repeat center/cover;
+  background: url("/Assets/Quran1.jpg") no-repeat center/cover;
   opacity: 0.3;
   z-index: -1;
 }
@@ -993,7 +993,7 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-  background: url("/Islamic_Landing_Page_Project/Assets/arabic\ img.jpg") no-repeat center/cover;
+  background: url("/Assets/arabic\ img.jpg") no-repeat center/cover;
   opacity: 0.3;
   z-index: -1;
 }
@@ -1012,7 +1012,7 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-  background: url("/Islamic_Landing_Page_Project/Assets/islamic\ history.jpg") no-repeat center/cover;
+  background: url("/Assets/islamic\ history.jpg") no-repeat center/cover;
   opacity: 0.3;
   z-index: -1;
 }
@@ -1030,7 +1030,7 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-  background: url("/Islamic_Landing_Page_Project/Assets/live\ classes.jpg") no-repeat center/cover;
+  background: url("/Assets/live\ classes.jpg") no-repeat center/cover;
   opacity: 0.3;
   z-index: -1;
 }
@@ -1048,7 +1048,7 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-  background: url("/Islamic_Landing_Page_Project/Assets/bukhari.jpg") no-repeat center/cover;
+  background: url("/Assets/bukhari.jpg") no-repeat center/cover;
   opacity: 0.3;
   z-index: -1;
 }
@@ -1066,7 +1066,7 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-  background: url("/Islamic_Landing_Page_Project/Assets/certificate.jpg") no-repeat center/cover;
+  background: url("/Assets/certificate.jpg") no-repeat center/cover;
   opacity: 0.3;
   z-index: -1;
 }
